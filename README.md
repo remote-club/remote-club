@@ -1,7 +1,21 @@
 ![I am full-stack web developer](https://imgkub.com/images/2023/10/02/Cover-FB-1.png)
+### <center>Welcome to my profile 🍀✨⚡️🔥🌈💻</center>
 ### Hi there 👋, my name is Nachon
 #### I am full-stack web developer
 
+---
+
+### <center> Programing language </center>
+<center>
+
+![Ruby][Ruby]
+![Rails][Rails]
+![React][React.js]
+![Js][Js]
+![Go][Go]
+![PHP][PHP]
+
+</center>
 I am a rock-solid full-stack web developer. I have more than 5 years of experience in web dev and programming. I'm always interested in both long-term and short-term contracts.
 I always seek to create lasting solutions for my clients and support them as their business grows. I take ownership of the projects I work on and am always available for a call, together we can achieve the expected results. ⁣
 In my experience I will provide:
