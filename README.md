@@ -48,9 +48,8 @@ Skills: HTML / CSS/MySQL/Machine Learning/WordPress/PHP/Open AI/
 
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![leedrum's GitHub stats](https://github-readme-stats.vercel.app/api?username=leedrum&theme=radical)](https://github.com/remote-club)
+[![remote-club's GitHub stats](https://github-readme-stats.vercel.app/api?username=remote-club&theme=radical)](https://github.com/remote-club)
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=remote-club) 
-[![Faceit Exts](https://github-readme-stats.vercel.app/api/pin/?username=leedrum&repo=faceit-exts&theme=radical)](https://github.com/leedrum/faceit-exts)
 
 [Ruby]: https://img.shields.io/badge/Ruby-20232A?style=for-the-badge&logo=ruby&logoColor=red
 [Rails]: https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white
