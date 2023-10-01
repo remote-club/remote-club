@@ -1,4 +1,4 @@
-![I am full-stack web developer](https://imgkub.com/image/Jlelm6)
+![I am full-stack web developer](https://imgkub.com/images/2023/10/02/Cover-FB-1.png)
 ### Hi there 👋, my name is Nachon
 #### I am full-stack web developer
 
