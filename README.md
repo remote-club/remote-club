@@ -1,6 +1,6 @@
 ![I am full-stack web developer](https://imgkub.com/images/2023/10/02/Cover-FB-1.png)
 ### <center>Welcome to my profile 🍀✨⚡️🔥🌈💻</center>
-### Hi there 👋, my name is Nachon
+### Hi there 👋, my name is Ignacio Nin
 #### I am full-stack web developer
 
 ---
